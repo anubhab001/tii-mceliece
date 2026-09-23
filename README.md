@@ -3,30 +3,30 @@
 Instances 35 to 61 (22 solutions)
 
 
-| Challenge | $n$ | $k$ | $r$ | $w$ | Naïve complexity ($\binom{n}{w}$) |
-| --- | --- | --- | --- | --- | --- |
-| [35](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_35.txt) | $416$ | $308$ | $108$ | $12$ | $2^{75.3}$ |
-| [36](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_36.txt) | $414$ | $288$ | $126$ | $14$ | $2^{85.0}$ |
-| [37](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_37.txt) | $438$ | $312$ | $126$ | $14$ | $2^{86.2}$ |
-| [38](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_38.txt) | $464$ | $338$ | $126$ | $14$ | $2^{87.4}$ |
-| [39](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_39.txt) | $490$ | $364$ | $126$ | $14$ | $2^{88.5}$ |
-| [40](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_40.txt) | $500$ | $365$ | $135$ | $15$ | $2^{93.9}$ |
-| [41](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_41.txt) | $500$ | $347$ | $153$ | $17$ | $2^{103.7}$ |
-| [42](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_42.txt) | $510$ | $339$ | $171$ | $19$ | $2^{113.6}$ |
-| [43](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_43.txt) | $618$ | $458$ | $160$ | $16$ | $2^{103.8}$ |
-| [44](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_44.txt) | $648$ | $488$ | $160$ | $16$ | $2^{104.9}$ |
-| [46](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_46.txt) | $712$ | $552$ | $160$ | $16$ | $2^{107.1}$ |
-| [47](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_47.txt) | $720$ | $550$ | $170$ | $17$ | $2^{112.7}$ |
-| [48](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_48.txt) | $752$ | $582$ | $170$ | $17$ | $2^{113.8}$ |
-| [49](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_49.txt) | $786$ | $616$ | $170$ | $17$ | $2^{114.9}$ |
-| [50](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_50.txt) | $750$ | $550$ | $200$ | $20$ | $2^{129.6}$ |
-| [51](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_51.txt) | $780$ | $580$ | $200$ | $20$ | $2^{130.7}$ |
-| [52](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_52.txt) | $808$ | $608$ | $200$ | $20$ | $2^{131.7}$ |
-| [53](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_53.txt) | $820$ | $610$ | $210$ | $21$ | $2^{137.4}$ |
-| [54](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_54.txt) | $832$ | $612$ | $220$ | $22$ | $2^{143.1}$ |
-| [55](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_55.txt) | $880$ | $670$ | $210$ | $21$ | $2^{139.6}$ |
-| [57](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_57.txt) | $898$ | $668$ | $230$ | $23$ | $2^{150.8}$ |
-| [61](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_61.txt) | $998$ | $758$ | $240$ | $24$ | $2^{159.7}$ |
+| Challenge | $n$ | $k$ | $r$ | $w$ | 
+| --- | --- | --- | --- | --- |
+| [35](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_35.txt) | $416$ | $308$ | $108$ | $12$ | 
+| [36](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_36.txt) | $414$ | $288$ | $126$ | $14$ | 
+| [37](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_37.txt) | $438$ | $312$ | $126$ | $14$ | 
+| [38](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_38.txt) | $464$ | $338$ | $126$ | $14$ | 
+| [39](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_39.txt) | $490$ | $364$ | $126$ | $14$ | 
+| [40](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_40.txt) | $500$ | $365$ | $135$ | $15$ | 
+| [41](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_41.txt) | $500$ | $347$ | $153$ | $17$ | 
+| [42](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_42.txt) | $510$ | $339$ | $171$ | $19$ | 
+| [43](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_43.txt) | $618$ | $458$ | $160$ | $16$ | 
+| [44](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_44.txt) | $648$ | $488$ | $160$ | $16$ | 
+| [46](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_46.txt) | $712$ | $552$ | $160$ | $16$ | 
+| [47](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_47.txt) | $720$ | $550$ | $170$ | $17$ | 
+| [48](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_48.txt) | $752$ | $582$ | $170$ | $17$ | 
+| [49](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_49.txt) | $786$ | $616$ | $170$ | $17$ | 
+| [50](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_50.txt) | $750$ | $550$ | $200$ | $20$ | 
+| [51](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_51.txt) | $780$ | $580$ | $200$ | $20$ | 
+| [52](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_52.txt) | $808$ | $608$ | $200$ | $20$ | 
+| [53](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_53.txt) | $820$ | $610$ | $210$ | $21$ | 
+| [54](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_54.txt) | $832$ | $612$ | $220$ | $22$ | 
+| [55](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_55.txt) | $880$ | $670$ | $210$ | $21$ | 
+| [57](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_57.txt) | $898$ | $668$ | $230$ | $23$ | 
+| [61](https://github.com/ElenaKirshanova/tii_decoding_challenge/blob/main/public/pk_McEliece_61.txt) | $998$ | $758$ | $240$ | $24$ | 
 
 ### Challenge 35
 
