@@ -164,4 +164,4 @@ $n=998, k=758, r=240, w=24$
 ## Contributors
 
 1. Dachao Wang (Lund University, Lund, Sweden)
-2. Anubhab Baksi (Indian Institute of Technology Bhilai, Chhattisgarh, India)
+2. Anubhab Baksi
