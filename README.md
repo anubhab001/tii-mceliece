@@ -264,4 +264,4 @@ $n=1020, k=760, r=260, w=26$
 ## Contributors
 
 1. Dachao Wang (Lund University, Lund, Sweden)
-2. Anubhab Baksi (Indian Statistical Institute, Chennai)
+2. Anubhab Baksi (Indian Statistical Institute, Chennai, India)
